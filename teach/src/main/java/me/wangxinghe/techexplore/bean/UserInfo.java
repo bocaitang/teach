@@ -61,8 +61,5 @@ public class UserInfo {
 
     public int following;
 
-    public String created_at;
-
-    public String updated_at;
-
+    public int following1;
 }
